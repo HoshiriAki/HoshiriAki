@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="312" viewBox="0 0 1200 312" role="img" aria-labelledby="title desc">
-  <title id="title">HoshiriAki</title>
-  <desc id="desc">Minimal dark-red circuit-inspired banner reading HoshiriAki, systems, AI and interfaces.</desc>
+  <title id="title">closure</title>
+  <desc id="desc">Minimal dark-red circuit-inspired banner reading closure, systems, AI and interfaces.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#08090c"/>
@@ -27,7 +27,7 @@
   <path d="M835 55L857 77L835 99L813 77Z" fill="none" stroke="#75273b" stroke-width="2"/>
   <path d="M823 77H847M835 65V89" stroke="#e14454" stroke-width="2"/>
   <text x="111" y="90" fill="#f05b67" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="5">INDEPENDENT ENGINEERING</text>
-  <text x="105" y="174" fill="#f6f0f2" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="800" letter-spacing="-2">HoshiriAki</text>
+  <text x="105" y="174" fill="#f6f0f2" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="800" letter-spacing="-2">closure</text>
   <rect x="109" y="195" width="494" height="2" fill="url(#red)"/>
   <text x="111" y="231" fill="#c3b2ba" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3">SYSTEMS  /  AI  /  INTERFACES</text>
   <text x="111" y="272" fill="#82727a" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">PROTORHEXIS  ·  RESEARCH &amp; SOFTWARE</text>
