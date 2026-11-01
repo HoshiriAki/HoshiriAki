@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="312" viewBox="0 0 1200 312" role="img" aria-labelledby="title desc">
+  <title id="title">HoshiriAki</title>
+  <desc id="desc">Minimal dark-red circuit-inspired banner reading HoshiriAki, systems, AI and interfaces.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08090c"/>
+      <stop offset="1" stop-color="#171014"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fb4b55"/>
+      <stop offset="1" stop-color="#a32337"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#38242d" stroke-width=".7" opacity=".38"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="312" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="312" rx="14" fill="url(#grid)"/>
+  <path d="M0 0H1200V7H0Z" fill="url(#red)"/>
+  <path d="M58 70V242M58 70H104M58 242H104" fill="none" stroke="#fa4b55" stroke-width="3"/>
+  <path d="M1128 42V92L1090 130H1036L1005 161H906M1200 94H1138L1086 146H1041L994 193H902M1200 228H1121L1089 260H1024M1200 276H1151L1122 247H1064" fill="none" stroke="#8a3041" stroke-width="2" opacity=".65"/>
+  <path d="M1130 0V42M1085 0V56L1055 86H1013M1200 171H1131L1101 201H1055M1145 312V281L1107 243H1072" fill="none" stroke="#4d2a36" stroke-width="1.5"/>
+  <g fill="#ed4654">
+    <circle cx="906" cy="161" r="4"/><circle cx="902" cy="193" r="4"/><circle cx="1024" cy="260" r="4"/>
+    <circle cx="1064" cy="247" r="4"/><circle cx="1013" cy="86" r="3"/><circle cx="1055" cy="201" r="3"/>
+  </g>
+  <path d="M835 55L857 77L835 99L813 77Z" fill="none" stroke="#75273b" stroke-width="2"/>
+  <path d="M823 77H847M835 65V89" stroke="#e14454" stroke-width="2"/>
+  <text x="111" y="90" fill="#f05b67" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="5">INDEPENDENT ENGINEERING</text>
+  <text x="105" y="174" fill="#f6f0f2" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="800" letter-spacing="-2">HoshiriAki</text>
+  <rect x="109" y="195" width="494" height="2" fill="url(#red)"/>
+  <text x="111" y="231" fill="#c3b2ba" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3">SYSTEMS  /  AI  /  INTERFACES</text>
+  <text x="111" y="272" fill="#82727a" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">PROTORHEXIS  ·  RESEARCH &amp; SOFTWARE</text>
+  <text x="1088" y="293" text-anchor="end" fill="#8d5a68" font-family="monospace" font-size="12">01 / 01</text>
+</svg>
