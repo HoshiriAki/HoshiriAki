@@ -5,16 +5,14 @@
   <p>Building dependable software today. Exploring human–AI collaboration for tomorrow.</p>
 
   <p>
-    <a href="#english">English</a> ·
-    <a href="#简体中文">简体中文</a> ·
+    <a href="#hello-im-hoshiriaki">English</a> ·
+    <a href="#你好我是-hoshiriaki">简体中文</a> ·
     <a href="https://github.com/PROTORHEXIS">PROTORHEXIS</a> ·
     <a href="mailto:closure_aki@qq.com">Contact</a>
   </p>
 </div>
 
 ---
-
-<a id="english"></a>
 
 ## Hello, I'm HoshiriAki.
 
@@ -55,8 +53,6 @@ These are **works in progress**. Research prototypes and validation results shou
 **Contact:** [closure_aki@qq.com](mailto:closure_aki@qq.com) · [GitHub profile](https://github.com/HoshiriAki)
 
 ---
-
-<a id="简体中文"></a>
 
 ## 你好，我是 HoshiriAki。
 
