@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="HoshiriAki — Systems, AI and Interfaces" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="closure — Systems, AI and Interfaces" width="100%" />
 
   <p><strong>Independent Software Developer · Systems Engineering · Applied AI</strong></p>
   <p>Building dependable software today. Exploring human–AI collaboration for tomorrow.</p>
 
   <p>
-    <a href="#hello-im-hoshiriaki">English</a> ·
-    <a href="#你好我是-hoshiriaki">简体中文</a> ·
+    <a href="#hello-im-closure">English</a> ·
+    <a href="#你好我是-closure">简体中文</a> ·
     <a href="https://github.com/PROTORHEXIS">PROTORHEXIS</a> ·
     <a href="mailto:closure_aki@qq.com">Contact</a>
   </p>
@@ -14,7 +14,7 @@
 
 ---
 
-## Hello, I'm HoshiriAki.
+## Hello, I'm closure.
 
 I am an independent developer working across **software systems, web applications, automation, and applied AI**. My approach is to turn a problem into explicit requirements, implement a solution with clear boundaries, and verify that it behaves as intended.
 
@@ -54,7 +54,7 @@ These are **works in progress**. Research prototypes and validation results shou
 
 ---
 
-## 你好，我是 HoshiriAki。
+## 你好，我是 closure。
 
 我是一名独立开发者，主要从事**软件系统、Web 应用、自动化与 AI 应用工程**。面对一个具体问题，我倾向于先理清需求、边界与验收条件，再进行实现和验证，让交付结果可以被理解、复现和维护。
 
